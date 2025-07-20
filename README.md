@@ -13,9 +13,9 @@ Hi, I’m **Narayanan K** – a final-year B.Tech Computer Science student at **
 • 🥇 Won 1st place in **Plastic Waste Recycling Mini Project** at IIT Madras (PALS Workshop)  
 • 🧪 Completed a **60-hour Applied ML with Python** certification  
 • 🌐 Selected for **Infosys Global Hackathon 2025**  
-• 🎤 Core coordinator at **TechFoss 2025** (national tech fest), volunteer at **ADVAY** and **MUDRA**
+• 🎤 Core coordinator at **TechFoss 2025** (national tech fest), **ADVAY** and **MUDRA**
 
-⚽ Beyond tech, I enjoy football, managerial events, and taking initiative in college fests. I’m trilingual and thrive in leadership and teamwork environments.
+⚽ Beyond tech, I enjoy sports, managerial events, and taking initiative in college fests. I’m trilingual and thrive in leadership and teamwork environments.
 
 🌱 My long-term goal is to evolve into a **Cloud and DevOps Engineer**, integrating AI and automation into resilient infrastructures.
 
